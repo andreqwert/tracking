@@ -1,3 +1,3 @@
-# tracking
+# Tracking
 
-Скрипты предобработки для трекинга
+Tracking preprocessing scripts
